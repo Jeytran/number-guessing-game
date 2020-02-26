@@ -1,0 +1,2 @@
+# number-guessing-game
+program will test the number that the user entered compared to the number it picked.  If the number that the user guessed is greater than the random number, tell the user  “your guess is too low”.   If the number that the user guessed is higher than the random number,  tell the user, “your guess is too high”.  Let the user continue guessing the number generated until they guess it right  program should not crash if the user gives you bad input
